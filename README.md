@@ -8,7 +8,7 @@ Aplicación de calendario hecha con React.
 - Tailwind CSS
 
 ## Instalación:
-```bash
+
 npm install
 npm start
 
