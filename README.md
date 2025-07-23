@@ -1,3 +1,15 @@
-Calendario APP EN PROCESO
+# CalendarApp 📅
 
-<img width="1365" height="641" alt="Captura de pantalla 2025-07-15 095950" src="https://github.com/user-attachments/assets/85380b41-9e87-4092-8456-27dd220b5d75" />
+Aplicación de calendario hecha con React.
+
+## Tecnologías:
+- React
+- React Big Calendar
+- Tailwind CSS
+
+## Instalación:
+
+npm install
+npm start
+
+<img width="1366" height="642" alt="modal" src="https://github.com/user-attachments/assets/af934a23-c667-490d-a5b5-9e6897d6931a" />
